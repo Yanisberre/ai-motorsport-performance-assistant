@@ -1,27 +1,63 @@
-# AI Motorsport Performance Assistant
+# 🏎️ AI Motorsport Performance Assistant
 
-AI-powered Formula 1 analytics dashboard built with:
+Premium Formula 1 analytics platform built with Python, FastF1 and Streamlit.
 
-- Python
-- Streamlit
-- FastF1
-- Plotly
+---
 
-## Features
+## 🚀 Features
 
 - Driver comparison
+- Delta time analysis
 - Telemetry analysis
 - Track map visualization
-- Lap time analysis
+- Tyre strategy analysis
+- Interactive dashboards
 - Motorsport performance analytics
 
-## Tech Stack
+---
 
+## 🛠️ Tech Stack
+
+- Python
 - Streamlit
 - FastF1
 - Pandas
 - Plotly
 
-## Author
 
-Yanis
+
+---
+
+## 🌐 Live App
+
+[Launch Application]https://ai-motorsport-performance-assistant-9aptkxfauugnbryhgdfzkp.streamlit.app
+
+---
+
+## 📂 Project Structure
+
+```bash
+ai-motorsport-performance-assistant/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── assets/
+├── screenshots/
+├── components/
+├── data/
+└── pages/
+```
+
+---
+
+## 👨‍💻 Author
+
+Yanis Berreghis
+
+Data & AI Master's student passionate about:
+- Formula 1
+- Motorsport analytics
+- AI
+- Performance engineering
+- Data visualization
